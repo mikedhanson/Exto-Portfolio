@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Mike'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >+
+      Lately, I have been investing my time in self hosting and creating a new
+      home lab. Check out some of my work. 
+
     actions:
       - label: Let's talk
         url: /contact
