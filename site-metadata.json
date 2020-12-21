@@ -35,7 +35,7 @@
     },
     "footer": {
         "content": "&copy; Michael Hanson. All rights reserved. Made with",
-        "has_social": true,
+        "has_social": false,
         "social_links": [
             {
                 "label": "Twitter",
