@@ -7,7 +7,7 @@ sections:
     title: 'Hi, I''m Mike'
     content: >+
       Lately, I have been investing my time in self hosting and creating a new
-      home lab. Check out some of my work. 
+      home lab. Check out some of my work or contact me.
 
     actions:
       - label: Let's talk
