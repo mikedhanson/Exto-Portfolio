@@ -1,24 +1,28 @@
 ---
 title: Home
-hide_title: false
+hide_title: True
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Mike'
+    title: 'Hello World, I''m Mike'
     content: >+
-      Lately, I have been investing my time in self hosting and creating a new
-      home lab. Check out some of my work. 
+      Lately, I have been investing my time in self hosting and creating a new home lab. Check out some of my work or contact me.
 
     actions:
-      - label: Let's talk
+      - label: Projects
+        url: /portfolio
+        style: button
+      - label: Contact Me! 
         url: /contact
         style: button
+      
+
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: What I'm Working On.
+    title: Things I'm Working On.
     subtitle: ''
-    projects_number: 6
+    projects_number: 3
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services

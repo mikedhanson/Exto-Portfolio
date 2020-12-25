@@ -4,6 +4,6 @@ image: images/thank-you.jpg
 template: page
 ---
 
-Thank you for contacting us! We will get back in touch with you soon.
+Thanks for the message.  s
 
 **Have a great day!**

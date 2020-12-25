@@ -1,9 +1,9 @@
 {
-    "description": "A portfolio theme with a blog",
+    "description": "Michaels Portfolio",
     "color_scheme": "dark",
     "accent_color": "blue",
     "header": {
-        "title": "Not another site",
+        "title": "<Mike/>",
         "has_nav": true,
         "nav_links": [
             {
@@ -12,7 +12,7 @@
                 "style": "link"
             },
             {
-                "label": "Portfolio",
+                "label": "Projects",
                 "url": "/portfolio/",
                 "style": "link"
             },
