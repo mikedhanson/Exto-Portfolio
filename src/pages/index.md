@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Mike'
+    title: 'Hello World, I''m Mike'
     content: >+
       Lately, I have been investing my time in self hosting and creating a new
       home lab. Check out some of my work or contact me.
